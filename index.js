@@ -5,15 +5,15 @@ $(document).ready(function () {
       localStorage.setItem(time, value);
     });
   
-    $("#hour-9 .description").val(localStorage.getItem("hour-9"));
-    $("#hour-10 .description").val(localStorage.getItem("hour-10"));
-    $("#hour-11 .description").val(localStorage.getItem("hour-11"));
-    $("#hour-12 .description").val(localStorage.getItem("hour-12"));
-    $("#hour-1 .description").val(localStorage.getItem("hour-1"));
-    $("#hour-2 .description").val(localStorage.getItem("hour-2"));
-    $("#hour-3 .description").val(localStorage.getItem("hour-3"));
-    $("#hour-4 .description").val(localStorage.getItem("hour-4"));
-    $("#hour-5 .description").val(localStorage.getItem("hour-5"));
+    $("#9 .description").val(localStorage.getItem("9"));
+    $("#10 .description").val(localStorage.getItem("10"));
+    $("#11 .description").val(localStorage.getItem("11"));
+    $("#12 .description").val(localStorage.getItem("12"));
+    $("#1 .description").val(localStorage.getItem("1"));
+    $("#2 .description").val(localStorage.getItem("2"));
+    $("#3 .description").val(localStorage.getItem("3"));
+    $("#4 .description").val(localStorage.getItem("4"));
+    $("#5 .description").val(localStorage.getItem("5"));
   
     $("#currentDay").text(moment().format("MMMM Do YYYY"));
   
