@@ -3,7 +3,7 @@ The purpose of this assignment was to create a day planner and save the data to 
 ## Tools used 
 <ul>
   <li>HTML</li>
-  <li>JS/li>
+  <li>JS
   <li>jQuery</li>
   <li>moment.js</li>
   <li>CSS</li>
