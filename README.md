@@ -9,4 +9,4 @@ The purpose of this assignment was to create a day planner and save the data to 
   <li>CSS</li>
   </ul>
 
-Deployed Site: 
+Deployed Site: https://justin7933.github.io/DayPlanner5/
